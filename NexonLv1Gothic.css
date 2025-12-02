@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'NexonLv1Gothic';
+    font-weight: 300;
+    src: url('./fonts/NEXONLv1GothicLight.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'NexonLv1Gothic';
+    font-weight: 400;
+    src: url('./fonts/NEXONLv1GothicRegular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'NexonLv1Gothic';
+    font-weight: 700;
+    src: url('./fonts/NEXONLv1GothicBold.woff2') format('woff2');
+}
